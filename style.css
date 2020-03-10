@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+body {
+    width: 50%;
+    margin: auto;
+    background-color: dodgerblue;
+
+}
+header {
+    border-bottom: 2px solid black;
+
+}
+header img {
+    width: 100px;
+    vertical-align: middle;
+}
+header h1 {
+    display: inline-block;
+}
+main {
+    margin-top: 5px;
+    padding: 10px;
+
+}
+#Search {
+    border-bottom: 2px solid black;
+
+    padding: 10px;
+}
+
+.emails {
+    margin-top: 30px;
+    background-color: pink;
+}
+.inbox {
+    padding: 5px;
+    border: 1px solid black;
+}
+footer {
+    border-top: 2px solid black;
+    margin-top: 30px;
+
+}
+footer {
+    text-align: center;
+
+}
+#vero {
+    font-family: 'Indie Flower', cursive;
+}
